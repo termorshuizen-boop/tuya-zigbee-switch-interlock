@@ -179,8 +179,7 @@ void relay_cluster_on(zigbee_relay_cluster *cluster) {
         for (int i = 0; i < 10; i++) {
             zigbee_relay_cluster *other_cluster = relay_cluster_by_endpoint[i];
             if (other_cluster != NULL && other_cluster->relay_idx != cluster->relay_idx) {
-                relay_off(other_cluster->relay);
-                sync_indicator_led(other_cluster);
+                relay_cluster_off(other_cluster);
             }
         }
     }
