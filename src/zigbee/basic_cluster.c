@@ -45,6 +45,7 @@ void basic_cluster_callback_attr_write_trampoline(uint16_t attribute_id) {
     }
     if (attribute_id == ZCL_ATTR_BASIC_INTERLOCKING_STATE) {
         device_params_set_interlocking_state(g_interlocking_state);
+        schedule_reboot(0); // Use default delay
     }
 }
 
