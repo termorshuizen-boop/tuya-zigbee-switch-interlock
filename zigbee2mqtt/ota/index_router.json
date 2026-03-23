@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-0c05f1cf.zigbee",
-    "fileVersion": 285356035,
+    "fileName": "tlc_switch-1.1.2-fcdd6ab8.zigbee",
+    "fileVersion": 285356038,
     "fileSize": 178978,
-    "url": "https://github.com/gui9394/tuya-zigbee-switch/raw/f2474aefbb6ab94f75f6a7efa5e0e458a4278264/bin/router/MODULE_EKAZA_TS0002/tlc_switch-1.1.2-0c05f1cf.zigbee",
+    "url": "https://github.com/gui9394/tuya-zigbee-switch/raw/refs/heads/feat/interlock-mode/bin/router/MODULE_EKAZA_TS0002/tlc_switch-1.1.2-fcdd6ab8.zigbee",
     "imageType": 43547,
     "manufacturerCode": 4417,
-    "sha512": "00cc3b31b187fc6902f75e4588325489ce0571aae55f31d08cd2a10883008f6ee5b08a4d98051c8e1ba67d7b1cbb14d27a05230049b438e97ddae149b1152615",
+    "sha512": "501ee88520b2dfb0c74462662aefcf6b9c956c44eb048541ed7a7c4b4ea070b2389acfc98a3aa65ffcc517b844abede4d70b874ad67d93fd9b7c5509c7259698",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_hznzbl0x",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.2-0c05f1cf-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.2-fcdd6ab8-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 178978,
-    "url": "https://github.com/gui9394/tuya-zigbee-switch/raw/f2474aefbb6ab94f75f6a7efa5e0e458a4278264/bin/router/MODULE_EKAZA_TS0002/tlc_switch-1.1.2-0c05f1cf-from_tuya.zigbee",
+    "url": "https://github.com/gui9394/tuya-zigbee-switch/raw/refs/heads/feat/interlock-mode/bin/router/MODULE_EKAZA_TS0002/tlc_switch-1.1.2-fcdd6ab8-from_tuya.zigbee",
     "imageType": 54179,
     "manufacturerCode": 4417,
-    "sha512": "f52cc533540082430e7dcd9910f4a4e6c1b43e1a58b3b2e3adc3af8bda5e988c1a00d72a825d510a13555bbb7b1b7d2783484b404c2c55da8b098882abaa1004",
+    "sha512": "51107cb9dd46826f8a828866d587ce0d4cc9594add4283deffc624c350253786c19317111f34c512b985abd6bfb477d4c2975b59a19714abe446ea44ad4085d1",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_hznzbl0x",
