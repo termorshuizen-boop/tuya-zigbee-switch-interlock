@@ -175,15 +175,6 @@ void sync_indicator_led(zigbee_relay_cluster *cluster) {
 }
 
 void relay_cluster_on(zigbee_relay_cluster *cluster) {
-    if (g_interlocking_state) {
-        for (int i = 0; i < 10; i++) {
-            zigbee_relay_cluster *other_cluster = relay_cluster_by_endpoint[i];
-            if (other_cluster != NULL && other_cluster->relay_idx != cluster->relay_idx) {
-                relay_cluster_off(other_cluster);
-            }
-        }
-    }
-
     relay_on(cluster->relay);
     sync_indicator_led(cluster);
 }
