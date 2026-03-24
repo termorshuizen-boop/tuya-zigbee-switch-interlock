@@ -1,8 +1,8 @@
 #include "relay_cluster.h"
 #include "cluster_common.h"
 #include "consts.h"
-#include "device_config/device_params_nv.h"
-#include "device_config/nvm_items.h"
+// #include "device_config/device_params_nv.h"
+// #include "device_config/nvm_items.h"
 #include "hal/nvm.h"
 #include "hal/printf_selector.h"
 
