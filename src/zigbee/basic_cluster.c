@@ -43,9 +43,9 @@ void basic_cluster_callback_attr_write_trampoline(uint16_t attribute_id) {
     if (attribute_id == ZCL_ATTR_BASIC_MULTI_PRESS_RESET_COUNT) {
         device_params_set_multi_press_reset_count(g_multi_press_reset_count);
     }
-    if (attribute_id == ZCL_ATTR_BASIC_INTERLOCKING_STATE) {
-        device_params_set_interlocking_state(g_interlocking_state);
-    }
+    // if (attribute_id == ZCL_ATTR_BASIC_INTERLOCKING_STATE) {
+    //     device_params_set_interlocking_state(g_interlocking_state);
+    // }
 }
 
 void basic_cluster_add_to_endpoint(zigbee_basic_cluster *cluster,
