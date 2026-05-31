@@ -5489,6 +5489,33 @@ SWITCH_PSMART_SL_TS0003:
   info: Backlight on A5
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/252
   store: https://psmart.pl/pl/p/PSMART-Przelacznik-3-obwody-C-RM-ZigBee-TUYA/2051
+SWITCH_TUYA_A_TS0001:
+  human_name: Tuya 1-gang switch
+  category: switch
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS0001
+  stock_manufacturer_name: _TZ3000_b7s7xsow
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0001
+  override_z2m_device: null
+  tuya_module: ZT3L
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: b7s7xsow;TS0001-TA;BC0u;RC2;IC3;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 47005
+  build: yes
+  status: in_progress
+  info: Needs pinout confirmation
+  threads: null
+  store: null
 SWITCH_TUYA_CN_TS0001:
   human_name: Tuya 1-gang switch
   category: switch
