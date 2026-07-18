@@ -56,7 +56,15 @@ BOARD_TO_MANUFACTURER_NAMES = {
         '_TZ3000_fbjdkph9',
         'Tuya-TS0002-custom',
     ],
-    
+        "TS0004": [
+        '_TZ3000_5ajpkyq6',
+        'Tuya-TS0004-custom',
+    ],
+    "TS0004-AVB": [
+        '_TZ3000_5ajpkyq6',
+        'Tuya-TS0004-Avatto-custom',
+    ],
+
 }
 
 
