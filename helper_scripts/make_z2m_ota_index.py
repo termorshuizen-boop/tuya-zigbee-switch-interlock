@@ -64,7 +64,6 @@ BOARD_TO_MANUFACTURER_NAMES = {
         '_TZ3000_5ajpkyq6',
         'Tuya-TS0004-Avatto-custom',
     ],
-
 }
 
 
