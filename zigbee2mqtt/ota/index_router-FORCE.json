@@ -1,12 +1,27 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-9e4fbdb0-forced.zigbee",
+    "fileName": "tlc_switch-1.1.2-3d6a3652-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 181794,
-    "url": "https://github.com/termorshuizen-boop/tuya-zigbee-switch-interlock/raw/00ec5dbb3201c6051b67c68bd4ea765a48b1bee7/bin/router/MODULE_AVATTO_A_TS0004/tlc_switch-1.1.2-9e4fbdb0-forced.zigbee",
+    "url": "https://github.com/termorshuizen-boop/tuya-zigbee-switch-interlock/raw/refs/heads/add-interlock-mode/bin/router/MODULE_AUBESS_TS0004/tlc_switch-1.1.2-3d6a3652-forced.zigbee",
+    "imageType": 43545,
+    "manufacturerCode": 4417,
+    "sha512": "6b02b3199c54f28377abdbeb901bf70a70aafe6a240d9243fdfef809d48294c55ff435aab98522351e4859b67cdfb1cb183e6bf9f60a02101b461f5bf2f1d14a",
+    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_mmkbptmx",
+      "Tuya-TS0004-custom",
+      "mmkbptmx"
+    ]
+  },
+  {
+    "fileName": "tlc_switch-1.1.2-3d6a3652-forced.zigbee",
+    "fileVersion": 4294967295,
+    "fileSize": 181794,
+    "url": "https://github.com/termorshuizen-boop/tuya-zigbee-switch-interlock/raw/refs/heads/add-interlock-mode/bin/router/MODULE_AVATTO_A_TS0004/tlc_switch-1.1.2-3d6a3652-forced.zigbee",
     "imageType": 43529,
     "manufacturerCode": 4417,
-    "sha512": "21c296a48db6f96c04c9152a876da7909433d76db8b636cc435a156c5c770590ecb58c55afd045e0b39f97dd305ef0e00e97e518ee84af8f6676c77263713041",
+    "sha512": "08f42a1e99d6df30bf13491f817ff9a0578cffd947a2654e578569c32d1e218f1690ac75e77eba83a3ad9536e99c904a44f27b6ebbc02702e272ed55071e06f2",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_5ajpkyq6",

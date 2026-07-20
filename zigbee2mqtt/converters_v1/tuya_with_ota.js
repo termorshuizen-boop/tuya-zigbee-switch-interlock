@@ -32,6 +32,7 @@ const tuyaModels = [
     "TS0002",
     "TS0003",
     "TS0004",
+    "TS0004_switch_module",
     "TS0004_switch_module_2",
     "TS0726_3_gang",
 ];

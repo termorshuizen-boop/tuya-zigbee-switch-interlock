@@ -42,5 +42,6 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
 | 🟩 | ✔️ | 🇲 | 🔌 | 🛜 | **TL** | `_TZ3000_5ajpkyq6` <br> `TS0004` | [AVATTO ZWSM16-4 🅰](https://www.zigbee2mqtt.io/devices/ZWSM16-4-Zigbee.html) | [`AlEx`](https://www.aliexpress.com/item/1005007247647375.html) | [`#009`](https://github.com/romasku/tuya-zigbee-switch/issues/9) | Supported | 
+| 🟩 | ✔️ | 🇲 | 🔌 | 🛜 | **TL** | `_TZ3000_mmkbptmx` <br> `TS0004` | [Aubess 4-gang](https://www.zigbee2mqtt.io/devices/TS0004_switch_module.html) | [`AlEx`](https://www.aliexpress.com/item/1005005748264739.html) | [`#066`](https://github.com/romasku/tuya-zigbee-switch/issues/66) | Supported | 
 
 Data from [`device_db.yaml`](/device_db.yaml)
